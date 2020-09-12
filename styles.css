@@ -1,0 +1,12 @@
+html {
+    background-color:rgba(61, 226, 255, 0.815);
+}
+.dashboard {
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255,255,255);
+    text-decoration-color: rgb(255,255,255);
+}
+.home_button {
+    text-decoration: none;
+}
